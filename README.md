@@ -1,1 +1,1 @@
-# Evoltsoft
+Evoltsoft is a Flutter-based mobile application designed to help users gives safer and verified routes while going from one place to another. The application integrates with Firebase for user authentication and utilizes BLoC state management.
