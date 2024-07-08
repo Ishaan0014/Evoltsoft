@@ -32,7 +32,7 @@ To get a local copy up and running follow these simple steps:
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/YashLakhwani99/evoltsoft.git
+   git clone https://github.com/Ishaan0014/evoltsoft.git
 2. **Change the Project directory:**
    ```sh
    cd evoltsoft
