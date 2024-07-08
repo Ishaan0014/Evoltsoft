@@ -12,7 +12,7 @@ Evoltsoft is a Flutter-based mobile application designed to help users find safe
 
 ## Introduction
 
-Evoltsoft is built using the Flutter framework to provide a seamless cross-platform experience on both iOS and Android devices. This project aims to make it easy for users to locate and explore electric vehicle charging stations.
+Evoltsoft is built using the Flutter framework to provide a seamless cross-platform experience on both iOS and Android devices. This project aims to make it easy for users to check safer routes.
 
 ## Features
 
